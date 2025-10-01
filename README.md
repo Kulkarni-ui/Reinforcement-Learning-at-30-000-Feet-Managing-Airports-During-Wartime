@@ -1,6 +1,8 @@
 # 🛫 Reinforcement Learning at 30,000 Feet: Managing Airports During Wartime
 
 📖 Read the full blog here: [Medium Blog](https://medium.com/@atharvhkulkarni/reinforcement-learning-at-30-000-feet-managing-airports-during-wartime-cbde10b62e0f)  
+[![Read Blog](https://img.shields.io/badge/Read%20Blog-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@atharvhkulkarni/reinforcement-learning-at-30-000-feet-managing-airports-during-wartime-cbde10b62e0f)
+
 
 This project simulates airport operations using **Reinforcement Learning (RL)** to manage increased air traffic during a hypothetical **India–Pakistan wartime scenario in 2025**. It demonstrates how intelligent agents can optimize gate assignments, prioritize military flights, and minimize delays.
 
